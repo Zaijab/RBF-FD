@@ -1,0 +1,10 @@
+* Radial Basis Function - Python
+** Uses
+
+Evaluating Radial Basis functions and exact derivatives over irregular domains
+
+Interpolating and smoothing N-dimensional data
+
+Computational Geometry functions for 1-3 spatial dimensions
+
+Node generation for solving PDEs with spectral RBF(-FD) method
